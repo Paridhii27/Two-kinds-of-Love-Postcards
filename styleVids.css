@@ -19,6 +19,9 @@ body{
 }
 
 a{  
-    text-align:end;
+    position: fixed;
+    top: 90%;
+    left: 80%;
+    font-size:3vh;
     margin-top:5vh;
 }
