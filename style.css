@@ -1,0 +1,26 @@
+@font-face {
+    font-family: "typewriter";
+    src: url("assets/typewriter.ttf");
+}
+
+h1 {
+    font-family: "typewriter";
+}
+body{
+    /* background-color: rgb(239, 239, 232); */
+    background-image: url("assets/images/WebMain.png");
+    background-size: cover;
+    margin:10px;
+    font-family: "typewriter";
+}
+
+.postcard-text{
+    font-size: 3vh;
+    margin-left:6%;
+    margin-top: 15%;
+}
+
+.top-container{
+    text-align: center;
+    margin:5vh;
+}
