@@ -25,3 +25,21 @@ a{
     font-size:3vh;
     margin-top:5vh;
 }
+
+.vid-container{
+    position: absolute; 
+    top: 12%; 
+    left: 10%; 
+    width: 75%; 
+    height: auto;
+}
+
+@media screen and (max-width: 600px) {
+    .vid-container{
+        position: absolute; 
+        top: 130; 
+        left: 8%; 
+        width: 85%; 
+        height: auto;
+    }
+  }
